@@ -31,3 +31,8 @@ para atualizacoes pip install -U langchain-ollama
 --
 para a interface 
 pip install streamlit
+
+----------
+para verificar banco de dados pelo terminal 
+sqlite3 rotina_v1.db "SELECT * FROM memorias;"
+
