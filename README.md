@@ -24,3 +24,6 @@ Para ambiente virtual :
 source venv/bin/activate
 
 to test pip install langchain langchain_community
+
+
+para atualizacoes pip install -U langchain-ollama
