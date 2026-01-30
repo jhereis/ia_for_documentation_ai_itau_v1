@@ -27,3 +27,7 @@ to test pip install langchain langchain_community
 
 
 para atualizacoes pip install -U langchain-ollama
+
+--
+para a interface 
+pip install streamlit
