@@ -18,3 +18,9 @@ Certifique-se de que o Ollama está aberto no seu PC.
 Rode o script acima.
 Tente o comando: anote: Tenho aula de computação toda terça às 19h.
 Depois pergunte: O que eu faço na terça à noite?
+
+Para ambiente virtual :
+/opt/homebrew/bin/python3 -m venv venv
+source venv/bin/activate
+
+to test pip install langchain langchain_community
