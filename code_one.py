@@ -1,3 +1,4 @@
+#O Primeiro Código (Protótipo em Python)
 import json
 
 class AssistenteRotina:
